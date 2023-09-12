@@ -9,7 +9,7 @@
     .d-flex.flex-wrap
       .col-lg-7.pe-lg-4.mb-0
         p El seguimiento, la coordinación y el control es lo que ayuda a que las actividades se realicen tal y como se habían propuesto, dentro de los plazos correctos, y permitirá corregir a tiempo cualquier desviación. Es importante el trabajo en equipo, que cada una de las personas involucradas conozca el plan de acción y el cronograma de trabajo. Lo anterior implica mantener una motivación y comunicación permanentes, ya que un evento es una de las máximas expresiones exitosas de lo que es el trabajo en equipo.
-        .cajon.color-primario.p-4(style="background-color: #E0F4FE")
+        .cajon.color-primario.p-4(style="background-color: #DFE5FF")
           p Para realizar el control y el seguimiento del desarrollo del evento, se debe tener total claridad de la tarea de cada uno de los comités. Es de suma importancia saber que el control y el seguimiento se realizan en las diferentes fases del evento.
       img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-1.png" style="max-width: 505px")
     p.mb-5 Para realizar el seguimiento y el control del evento, se tendrá en cuenta lo siguiente:
