@@ -3,16 +3,16 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 6
-      h1 Contingencia 
+      h1(data-aos="fade-left") Contingencia 
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 505px")
+      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 505px" data-aos="fade-right")
       .col-lg-7.ps-lg-4
-        p.mb-0 La contingencia es una situación que podría acontecer en el futuro, con posibles consecuencias positivas o negativas, en este caso, para un evento. Se trata de una situación que, de llegar a materializarse, podría mejorar o empeorar el resultado del evento. La importancia de contar con un plan de contingencia no puede ser subestimada, pues este garantiza que se estará preparado ante los contratiempos que puedan ocurrir. Se deberán tener en cuenta los siguientes aspectos:
+        p.mb-0(data-aos="fade-left") La contingencia es una situación que podría acontecer en el futuro, con posibles consecuencias positivas o negativas, en este caso, para un evento. Se trata de una situación que, de llegar a materializarse, podría mejorar o empeorar el resultado del evento. La importancia de contar con un plan de contingencia no puede ser subestimada, pues este garantiza que se estará preparado ante los contratiempos que puedan ocurrir. Se deberán tener en cuenta los siguientes aspectos:
     
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordion-a")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordion-a" data-aos="fade-right")
       .row(titulo="Planificar")
         .d-flex.flex-wrap.mb-5
           .col-lg-7.pe-lg-4.mb-0

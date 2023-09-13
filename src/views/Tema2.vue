@@ -3,40 +3,40 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 2
-      h1 Asignación de actividades
+      h1(data-aos="fade-left") Asignación de actividades
     
     .d-flex.flex-wrap.mb-5
-      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px")
-      p.col-lg-7.ps-lg-4.mb-0.pt-lg-4 La planificación del evento es fundamental a la hora de asignar las actividades, las cuales deben mantener un cronograma y una secuencia de acuerdo con las necesidades y particularidades del evento. En este sentido, hay unas tareas que no se pueden desarrollar sin que otras se realicen previamente; se deben tener en cuenta además los recursos necesarios y la duración de la tarea. A partir de lo anterior, se realiza la asignación de las actividades:
+      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px" data-aos="fade-right")
+      p.col-lg-7.ps-lg-4.mb-0.pt-lg-4(data-aos="fade-left") La planificación del evento es fundamental a la hora de asignar las actividades, las cuales deben mantener un cronograma y una secuencia de acuerdo con las necesidades y particularidades del evento. En este sentido, hay unas tareas que no se pueden desarrollar sin que otras se realicen previamente; se deben tener en cuenta además los recursos necesarios y la duración de la tarea. A partir de lo anterior, se realiza la asignación de las actividades:
 
     .d-flex.flex-wrap
       .col-lg-8.pe-lg-4.mb-0
-        p Para que estas actividades cumplan su objetivo y en los tiempos fijados para su realización, se deben asignar tareas teniendo en cuenta:
+        p(data-aos="fade-right") Para que estas actividades cumplan su objetivo y en los tiempos fijados para su realización, se deben asignar tareas teniendo en cuenta:
         ul.lista-ul--separador
           li
-            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
+            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Las capacidades de las personas.
           li
-            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
+            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Las actividades deben estar enmarcadas en uno de los comités.
           li
-            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
+            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Cumplimiento del objetivo.
           li
-            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
+            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Sus responsables.
           li
-            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
+            i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Coordinador por comité para supervisar el correcto funcionamiento.
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" data-aos="fade-left")
 
     .container-100.py-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: left; background-size: contain"
     )
-      ImagenInfografica.col-xl-8.mx-auto.color-secundario
+      ImagenInfografica.col-xl-8.mx-auto.color-secundario(data-aos="fade-left")
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/temas/tema2/img-3.svg' alt='Texto que describa la imagen')

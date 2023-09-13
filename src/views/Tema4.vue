@@ -3,11 +3,11 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 4
-      h1 Desarrollo del evento
+      h1(data-aos="fade-left") Desarrollo del evento
     
-    p.mb-5 En la fase de desarrollo del evento, lo más importante es coordinar. Esta fase consiste en la exitosa coordinación y ejecución de las actividades antes planeadas, las cuales se ejecutarán de acuerdo con el tiempo y lo planeado. Lo ideal en esta fase es mantener todo el tiempo el control, mientras estén en ejecución las actividades.
+    p.mb-5(data-aos="fade-right") En la fase de desarrollo del evento, lo más importante es coordinar. Esta fase consiste en la exitosa coordinación y ejecución de las actividades antes planeadas, las cuales se ejecutarán de acuerdo con el tiempo y lo planeado. Lo ideal en esta fase es mantener todo el tiempo el control, mientras estén en ejecución las actividades.
 
     .bloque-texto-g.bloque-texto-g--inverso.p-3.p-sm-4.mb-5(style="background-color: #FFCA00")
       .bloque-texto-g__img(
@@ -17,30 +17,30 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 En el momento del desarrollo del evento, es muy importante la coordinación entre comités, actividades y recursos. Se debe realizar el respectivo control y seguimiento de estas actividades por parte de los responsables. Una vez puesto en marcha el evento, se debe mantener una retroalimentación constante en las fases iniciales, por ello, la planeación del evento debe ser flexible, de manera que, cuando se realice el control y se detecten desviaciones, se puedan subsanar a tiempo. Cuando ocurren este tipo de desviaciones, se debe hacer registro de ellas, para que en la fase de evaluación se analicen y se puedan aplicar los respectivos planes de mejora. 
     
-    p.mb-5 Para lo anterior, se deben tener en cuenta los siguientes elementos: 
+    p.mb-5(data-aos="fade-right") Para lo anterior, se deben tener en cuenta los siguientes elementos: 
 
     .container-100.py-5.d-none.d-md-flex(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: left; background-size: contain"
     )
-      img.mb-5(src='@/assets/curso/temas/tema4/img-2.svg' alt='Imagen decorativa')
-    img.d-flex.d-md-none.mb-5(src='@/assets/curso/temas/tema4/img-3.svg' alt='Imagen decorativa')
+      img.mb-5(src='@/assets/curso/temas/tema4/img-2.svg' alt='Imagen decorativa' data-aos="fade-left")
+    img.d-flex.d-md-none.mb-5(src='@/assets/curso/temas/tema4/img-3.svg' alt='Imagen decorativa' data-aos="fade-left")
 
-    p.mb-5 Complementando el esquema de trabajo para ejecución del evento, en esta fase se tiene la siguiente secuencia:
+    p.mb-5(data-aos="fade-right") Complementando el esquema de trabajo para ejecución del evento, en esta fase se tiene la siguiente secuencia:
 
     ul.lista-ul--separador
       li
       li.d-flex.justify-content-center.align-content-center
-        p.mb-0.col.mx-auto.text-center
+        p.mb-0.col.mx-auto.text-center(data-aos="fade-right")
           i.fas.fa-angle-right.pe-2(style="color: #FE502D; font-size: 20px")
           | Planeación previa del evento.
-        p.mb-0.col.mx-auto.text-center
+        p.mb-0.col.mx-auto.text-center(data-aos="fade-right")
           i.fas.fa-angle-right.pe-2(style="color: #FE502D; font-size: 20px")
           | Comités conformados.
-        p.mb-0.col.mx-auto.text-center
+        p.mb-0.col.mx-auto.text-center(data-aos="fade-right")
           i.fas.fa-angle-right.pe-2(style="color: #FE502D; font-size: 20px")
           | Asignación y seguimiento de las tareas.
-        p.mb-0.col.mx-auto.text-center
+        p.mb-0.col.mx-auto.text-center(data-aos="fade-right")
           i.fas.fa-angle-right.pe-2(style="color: #FE502D; font-size: 20px")
           | Desarrollo del evento.
       li.mb-0

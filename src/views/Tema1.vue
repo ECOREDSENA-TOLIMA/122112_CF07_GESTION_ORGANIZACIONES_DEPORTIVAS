@@ -3,11 +3,11 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="fade-right")
         span 1
-      h1 Comités y responsabilidades
+      h1(data-aos="fade-left") Comités y responsabilidades
     
-    p.mb-5 Para el desarrollo del evento, las organizaciones normalmente se estructuran a través de grupos de trabajo llamados comités, esto facilita alcanzar los objetivos específicos, al delegar la funciones y responsabilidades en diferentes comités; contribuye a un mejor proceso de planeación; y además permite que el desarrollo del evento sea más fluido y con una capacidad de respuesta más oportuna.
+    p.mb-5(data-aos="fade-right") Para el desarrollo del evento, las organizaciones normalmente se estructuran a través de grupos de trabajo llamados comités, esto facilita alcanzar los objetivos específicos, al delegar la funciones y responsabilidades en diferentes comités; contribuye a un mejor proceso de planeación; y además permite que el desarrollo del evento sea más fluido y con una capacidad de respuesta más oportuna.
     
     .bloque-texto-g.bloque-texto-g--inverso.p-3.p-sm-4.mb-5(style="background-color: #FE502D")
       .bloque-texto-g__img(
@@ -17,9 +17,9 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 En los comités, se recogen todas las funciones del evento. Al frente de cada uno, existe un responsable, y detrás de este, un recurso humano con diferentes tareas a realizar, según se requiera. Es por ello que cada comité debe disponer de un organigrama, con un plan de necesidades, un presupuesto y un plan de coordinación. Cada evento requiere una organización según sea su necesidad. Si es un evento de grandes magnitudes o un evento pequeño, dependiendo del lugar, del clima, de la población, entre otros, de acuerdo con sus características, se organizarán los comités y las responsabilidades.
 
-    p.mb-5 Teniendo en cuenta lo anterior, se desarrollarán seis áreas o comités donde se centrarían las operaciones del evento, que serían: marketing y comunicaciones, protocolo, técnico-deportiva, logística, económica y administrativa y seguridad. Cada comité es posible que funcione desde el inicio hasta el final del evento, lo que implicaría que unos comités cuenten con más personal y presupuesto; esto está determinado también por el volumen de tareas asignadas.
+    p.mb-5(data-aos="fade-right") Teniendo en cuenta lo anterior, se desarrollarán seis áreas o comités donde se centrarían las operaciones del evento, que serían: marketing y comunicaciones, protocolo, técnico-deportiva, logística, económica y administrativa y seguridad. Cada comité es posible que funcione desde el inicio hasta el final del evento, lo que implicaría que unos comités cuenten con más personal y presupuesto; esto está determinado también por el volumen de tareas asignadas.
 
-    TabsB.color-primario
+    TabsB.color-primario(data-aos="fade-left")
       .py-4.py-md-5(titulo="Comité de <em>marketing</em> y<br> comunicaciones" :icono="require('@/assets/curso/temas/tema1/t-1.svg')")
         .row.col-xl-10.mx-auto
           .col-md-6.mb-4.mb-md-0
