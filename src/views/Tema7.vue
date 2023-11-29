@@ -60,12 +60,12 @@
           li.d-flex
             i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             p.mb-0 Prever un lugar en la instalación para guardar todos los medios básicos necesarios para la ceremonia.
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-2.png" style="max-width: 400px" data-aos="fade-left")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-2.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-left")
 
     p.mb-5(data-aos="fade-right") De acuerdo con lo anterior, a continuación, se relacionan los pasos para el cierre del evento:
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-3.png" style="max-width: 400px" data-aos="fade-right")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-3.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-right")
       .col-lg-8.ps-lg-4
         ul.lista-ul--separador
           li.d-flex

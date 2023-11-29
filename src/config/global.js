@@ -135,7 +135,7 @@ export default {
         'Gutiérrez, J. (s. f.). <em>Organización de grandes eventos deportivos.</em>',
       tipo: 'Presentación',
       link:
-        'http://www.coc.org.co/wp-content/uploads/ORGANIZACION-DE-EVENTOS-COC.pdf',
+        'https://www.bizkaia.eus/home2/archivos/DPTO4/Temas/deportes/claves%20evento.pdf?hash=b0858fe92dc63a58ee412f666011902f&idioma=CA',
     },
   ],
   glosario: [

@@ -8,7 +8,7 @@
       h1(data-aos="fade-left") Contingencia 
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 505px" data-aos="fade-right")
+      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-1.png" style="max-width: 505px" alt="imagen decorativa" data-aos="fade-right")
       .col-lg-7.ps-lg-4
         p.mb-0(data-aos="fade-left") La contingencia es una situación que podría acontecer en el futuro, con posibles consecuencias positivas o negativas, en este caso, para un evento. Se trata de una situación que, de llegar a materializarse, podría mejorar o empeorar el resultado del evento. La importancia de contar con un plan de contingencia no puede ser subestimada, pues este garantiza que se estará preparado ante los contratiempos que puedan ocurrir. Se deberán tener en cuenta los siguientes aspectos:
     
@@ -39,13 +39,13 @@
               li.d-flex
                 i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
                 p.mb-0 <b>Seguridad:</b> trabajar de la mano con las instituciones públicas encargadas de la seguridad, en todos los sentidos, y garantizar los apoyos y respuestas inmediatas.
-          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-2.png" style="max-width: 495px")
+          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-2.png" style="max-width: 495px" alt="imagen decorativa")
 
       .row(titulo="La cadena de mando")
         .d-flex.flex-wrap.mb-5
           .col-lg-7.pe-lg-4.mb-0
             p En caso de una emergencia, debe haber unas cabezas visibles, las cuales serán las encargadas de tomar las decisiones. Allí se establecen las responsabilidades individuales y de equipo, para tener un rápido accionar, evitando discusiones e inconvenientes en el momento.
-          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-3.png" style="max-width: 495px")
+          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-3.png" style="max-width: 495px" alt="imagen decorativa")
       
       .row(titulo="Plan de contingencia escrito")
         .d-flex.flex-wrap.mb-5
@@ -61,7 +61,7 @@
               li.d-flex
                 i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px")
                 p.mb-0 <b>Protocolo de respuesta:</b> describir la esencia de cómo enfrentar la amenaza.
-          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-4.png" style="max-width: 495px")
+          img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema6/img-4.png" style="max-width: 495px" alt="imagen decorativa")
 
 </template>
 

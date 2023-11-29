@@ -11,7 +11,7 @@
         p(data-aos="fade-right") El seguimiento, la coordinación y el control es lo que ayuda a que las actividades se realicen tal y como se habían propuesto, dentro de los plazos correctos, y permitirá corregir a tiempo cualquier desviación. Es importante el trabajo en equipo, que cada una de las personas involucradas conozca el plan de acción y el cronograma de trabajo. Lo anterior implica mantener una motivación y comunicación permanentes, ya que un evento es una de las máximas expresiones exitosas de lo que es el trabajo en equipo.
         .cajon.color-primario.p-4(style="background-color: #DFE5FF" data-aos="fade-left")
           p Para realizar el control y el seguimiento del desarrollo del evento, se debe tener total claridad de la tarea de cada uno de los comités. Es de suma importancia saber que el control y el seguimiento se realizan en las diferentes fases del evento.
-      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-1.png" style="max-width: 505px" data-aos="fade-left")
+      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-1.png" style="max-width: 505px" alt="imagen decorativa" data-aos="fade-left")
     p.mb-5(data-aos="fade-right") Para realizar el seguimiento y el control del evento, se tendrá en cuenta lo siguiente:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
@@ -55,7 +55,7 @@
           span.number-decorativo.pe-3 04
           p.mb-0 Su duración está determinada por los temas y su periodicidad es de un mes en adelante.
       .img-decorativo-1(data-aos="flip-up")
-        img(src="@/assets/curso/temas/tema5/vs.svg")
+        img(src="@/assets/curso/temas/tema5/vs.svg" alt="imagen decorativa")
       .container-card-decorativo-1.col-12.col-lg(data-aos="fade-left")
         .d-flex.justify-content-center
           h3.header-card-decorativo Reuniones operativas
@@ -109,10 +109,10 @@
           li
             i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Aplicar herramientas TIC especializadas para el seguimiento y gestión de eventos. 
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-2.png" style="max-width: 400px" data-aos="fade-left")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-2.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-left")
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-3.png" style="max-width: 400px" data-aos="fade-right")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema5/img-3.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-right")
       .col-lg-8.ps-lg-4
         p Para el control operativo del evento es importante tener en cuenta:
         ul.lista-ul--separador

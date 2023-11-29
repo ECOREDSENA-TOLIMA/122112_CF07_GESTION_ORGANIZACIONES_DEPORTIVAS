@@ -8,7 +8,7 @@
       h1(data-aos="fade-left") Asignación de actividades
     
     .d-flex.flex-wrap.mb-5
-      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px" data-aos="fade-right")
+      img.col-lg-5.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px" alt="imagen decorativa" data-aos="fade-right")
       p.col-lg-7.ps-lg-4.mb-0.pt-lg-4(data-aos="fade-left") La planificación del evento es fundamental a la hora de asignar las actividades, las cuales deben mantener un cronograma y una secuencia de acuerdo con las necesidades y particularidades del evento. En este sentido, hay unas tareas que no se pueden desarrollar sin que otras se realicen previamente; se deben tener en cuenta además los recursos necesarios y la duración de la tarea. A partir de lo anterior, se realiza la asignación de las actividades:
 
     .d-flex.flex-wrap
@@ -30,7 +30,7 @@
           li
             i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Coordinador por comité para supervisar el correcto funcionamiento.
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" data-aos="fade-left")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-left")
 
     .container-100.py-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.svg')})`}"
@@ -39,7 +39,7 @@
       ImagenInfografica.col-xl-8.mx-auto.color-secundario(data-aos="fade-left")
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema2/img-3.svg' alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema2/img-3.svg' alt='Imagen de corativa')
 
         .tarjeta.p-3(x="10.5%" y="64%" numero="+" style="background-color: #F6F6F6")
           .h5.mb-2 Definir actividades a desarrollar

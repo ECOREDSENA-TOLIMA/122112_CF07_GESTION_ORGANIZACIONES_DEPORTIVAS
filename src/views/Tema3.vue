@@ -8,7 +8,7 @@
       h1(data-aos="fade-left") Verificación de tareas asignadas 
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-1.png" style="max-width: 400px" data-aos="fade-right")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-1.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-right")
       .col-lg-8.ps-lg-4
         p(data-aos="fade-left") Cuando se organiza un evento, se deben tener claras las actividades que desarrollará cada comité y, por supuesto, realizar la verificación del cumplimiento de estas tareas, teniendo en cuenta el nivel de importancia y los tiempos asignados para ellas. Los coordinadores o supervisores de cada uno de los comités son los encargados de realizar la verificación de las tareas asignadas.
         .cajon.color-primario.p-4(style="background-color: #E0F4FE" data-aos="fade-right")
@@ -66,7 +66,7 @@
           li
             i.fas.fa-angle-right(style="color: #FE502D; font-size: 20px" data-aos="fade-right")
             | Trabajar en equipo y comunicación permanente y asertiva.
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-5.png" style="max-width: 400px" data-aos="fade-left")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-5.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-left")
 </template>
 
 <script>

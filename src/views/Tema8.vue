@@ -18,7 +18,7 @@
     p.mb-5(data-aos="fade-right") Uno de los instrumentos más utilizados para realizar las evaluaciones por parte de los participantes son las encuestas de satisfacción o retroalimentación; para ello, se pueden tener en cuenta las siguientes recomendaciones:
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-3.png" style="max-width: 400px" data-aos="fade-right")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema7/img-3.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-right")
       .col-lg-8.ps-lg-4
         ul.lista-ul--separador
           li.d-flex
@@ -41,7 +41,7 @@
           .decorador-card-2
           .decorador-card
           .container-info
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-1.svg" style="max-width: 63px; margin-left: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-1.svg" style="max-width: 63px; margin-left: -15px" alt="imagen decorativa")
             p.mb-0.col.px-3.ps-0.ps-md-3 Valora del 1 al 5 cada uno de estos aspectos de la organización del evento: instalaciones del evento, organización, información, ponentes
             span.number_card 01
         
@@ -49,7 +49,7 @@
           .decorador-card-2
           .decorador-card
           .container-info
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-2.svg" style="max-width: 63px; margin-left: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-2.svg" style="max-width: 63px; margin-left: -15px" alt="imagen decorativa")
             p.mb-0.col.px-3.ps-0.ps-md-3 ¿Qué es lo que menos te ha gustado del evento?
             span.number_card 02
         
@@ -57,7 +57,7 @@
           .decorador-card-2
           .decorador-card
           .container-info
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-3.svg" style="max-width: 63px; margin-left: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-3.svg" style="max-width: 63px; margin-left: -15px" alt="imagen decorativa")
             p.mb-0.col.px-3.ps-0.ps-md-3 Del 0 al 10, donde 0 es muy improbable y 10 es muy probable, ¿recomendarías este evento a un amigo?
             span.number_card 03
         
@@ -65,7 +65,7 @@
           .decorador-card-2
           .decorador-card
           .container-info
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-4.svg" style="max-width: 63px; margin-left: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-4.svg" style="max-width: 63px; margin-left: -15px" alt="imagen decorativa")
             p.mb-0.col.px-3.ps-0.ps-md-3 ¿Cómo calificarías este evento? (Ofrecer varias opciones de respuesta: Excelente, Muy bueno, Bueno, Normal o Malo)
             span.number_card 04
         
@@ -73,7 +73,7 @@
           .decorador-card-2
           .decorador-card
           .container-info
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-5.svg" style="max-width: 63px; margin-left: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-5.svg" style="max-width: 63px; margin-left: -15px" alt="imagen decorativa")
             p.mb-0.col.px-3.ps-0.ps-md-3 ¿Qué es lo que más te ha gustado del evento?
             span.number_card 05
 
@@ -84,7 +84,7 @@
             p.mb-0.col.px-3.pe-0.pe-md-3 ¿Qué opinas de la organización del evento?
               br
               |(Ofrecer diferentes respuestas: Muy bien organizado, Bien organizado, Organizado, No muy bien organizado, Un desastre)
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-6.svg" style="max-width: 63px; margin-right: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-6.svg" style="max-width: 63px; margin-right: -15px" alt="imagen decorativa")
           .decorador-card
           .decorador-card-2
 
@@ -92,7 +92,7 @@
           .container-info
             span.number_card 07
             p.mb-0.col.px-3.pe-0.pe-md-3 ¿Qué opinas del trabajo realizado por el servicio de orientación e información?
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-7.svg" style="max-width: 63px; margin-right: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-7.svg" style="max-width: 63px; margin-right: -15px" alt="imagen decorativa")
           .decorador-card
           .decorador-card-2
         
@@ -100,7 +100,7 @@
           .container-info
             span.number_card 08
             p.mb-0.col.px-3.pe-0.pe-md-3 Del 0 al 10, donde 0 es muy poco satisfecho y 10 es muy satisfecho, ¿cómo de satisfecho estás con nuestro servicio de atención al cliente?
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-8.svg" style="max-width: 63px; margin-right: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-8.svg" style="max-width: 63px; margin-right: -15px" alt="imagen decorativa")
           .decorador-card
           .decorador-card-2
         
@@ -108,7 +108,7 @@
           .container-info
             span.number_card 09
             p.mb-0.col.px-3.pe-0.pe-md-3 Del 0 al 10, donde 0 es nada y 10 mucho, ¿fue de utilidad nuestro equipo para resolver tus dudas?
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-9.svg" style="max-width: 63px; margin-right: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-9.svg" style="max-width: 63px; margin-right: -15px" alt="imagen decorativa")
           .decorador-card
           .decorador-card-2
 
@@ -116,7 +116,7 @@
           .container-info
             span.number_card 10
             p.mb-0.col.px-3.pe-0.pe-md-3 ¿Qué crees que puede mejorar en el próximo evento? (Ofrecer varias respuestas: Horarios, Precios de la entrada, Calidad del evento, Servicios del recinto, Ponentes, Promoción)
-            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-10.svg" style="max-width: 63px; margin-right: -15px")
+            img.d-none.d-md-flex(src="@/assets/curso/temas/tema8/decorador-10.svg" style="max-width: 63px; margin-right: -15px" alt="imagen decorativa")
           .decorador-card
           .decorador-card-2
 </template>
