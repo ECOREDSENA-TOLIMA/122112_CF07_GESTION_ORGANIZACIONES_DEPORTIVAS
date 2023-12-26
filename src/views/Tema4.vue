@@ -15,7 +15,7 @@
         style="background-repeat: no-repeat; background-position: right;"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 En el momento del desarrollo del evento, es muy importante la coordinación entre comités, actividades y recursos. Se debe realizar el respectivo control y seguimiento de estas actividades por parte de los responsables. Una vez puesto en marcha el evento, se debe mantener una retroalimentación constante en las fases iniciales, por ello, la planeación del evento debe ser flexible, de manera que, cuando se realice el control y se detecten desviaciones, se puedan subsanar a tiempo. Cuando ocurren este tipo de desviaciones, se debe hacer registro de ellas, para que en la fase de evaluación se analicen y se puedan aplicar los respectivos planes de mejora. 
+        p.mb-0 En el momento del desarrollo del evento, es muy importante la coordinación entre comités, actividades y recursos. Se debe realizar el respectivo control y seguimiento de estas actividades por parte de los responsables. Una vez puesto en marcha el evento, se debe mantener una retroalimentación constante en las fases iniciales, por ello, la planeación del evento debe ser flexible, de manera que, cuando se realice el control y se detecten desviaciones, se puedan subsanar a tiempo. Cuando ocurren este tipo de desviaciones, se debe hacer registro de ellas, para que, en la fase de evaluación, se analicen y se puedan aplicar los respectivos planes de mejora. 
     
     p.mb-5(data-aos="fade-right") Para lo anterior, se deben tener en cuenta los siguientes elementos: 
 

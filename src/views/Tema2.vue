@@ -42,16 +42,12 @@
             img(src='@/assets/curso/temas/tema2/img-3.svg' alt='Imagen de corativa')
 
         .tarjeta.p-3(x="10.5%" y="64%" numero="+" style="background-color: #F6F6F6")
-          .h5.mb-2 Definir actividades a desarrollar
           p.mb-0 Depende de la planificación realizada previamente a partir de la conformación de los comités.
         .tarjeta.p-3(x="36%" y="64%" numero="+" style="background-color: #F6F6F6")
-          .h5.mb-2 Estimar los recursos necesarios para las actividades
           p.mb-0 Económicos, talento humano y materiales requeridos para llevar a cabo esa tarea, estableciendo los responsables y cuáles serían los costos.
         .tarjeta.p-3(x="61.5%" y="64%" numero="+" style="background-color: #F6F6F6")
-          .h5.mb-2 Secuencia y duración de las actividades
           p.mb-0 Depende de cómo se planearon las tareas, cuáles son las principales y cuáles son las secundarias, el orden en que se van a ejecutar.
         .tarjeta.p-3(x="87%" y="64%" numero="+" style="background-color: #F6F6F6")
-          .h5.mb-2 Asignación de actividades
           p.mb-0 Teniendo la experiencia previa de a quién se le asigna la tarea y las características de la personalidad.
 
 </template>

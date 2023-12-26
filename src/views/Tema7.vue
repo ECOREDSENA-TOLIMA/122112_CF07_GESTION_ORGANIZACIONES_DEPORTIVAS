@@ -16,7 +16,7 @@
         p.mb-0 El cierre del evento es muy importante para el éxito del mismo, por tanto, hay que tener una planificación igual que en las otras fases. Hay que realizarlo de modo que genere un gran impacto. El cierre oficial del evento o la ceremonia de clausura es un acto más informal. En el caso de los eventos deportivos, estas ceremonias se caracterizan por los grandes lazos de confraternidad entre los deportistas e integración entre las delegaciones. Estos son algunos pasos a desarrollar:
 
     h3(data-aos="fade-right") Ceremonias de premiación
-    p.mb-5(data-aos="fade-right") es donde se realiza la premiación de los deportistas en cada disciplina o evento deportivo, esta ceremonia debe estar coordinada y desarrollada según el plan de acción del evento, teniendo en cuenta lo siguiente: 
+    p.mb-5(data-aos="fade-right") Es donde se realiza la premiación de los deportistas en cada disciplina o evento deportivo, esta ceremonia debe estar coordinada y desarrollada según el plan de acción del evento, teniendo en cuenta lo siguiente: 
 
     .d-flex.flex-wrap.mb-5
       .col-lg-8.pe-lg-4.mb-0

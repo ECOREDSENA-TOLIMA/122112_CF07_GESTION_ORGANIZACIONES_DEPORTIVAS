@@ -7,7 +7,7 @@
         span 1
       h1(data-aos="fade-left") Comités y responsabilidades
     
-    p.mb-5(data-aos="fade-right") Para el desarrollo del evento, las organizaciones normalmente se estructuran a través de grupos de trabajo llamados comités, esto facilita alcanzar los objetivos específicos, al delegar la funciones y responsabilidades en diferentes comités; contribuye a un mejor proceso de planeación; y además permite que el desarrollo del evento sea más fluido y con una capacidad de respuesta más oportuna.
+    p.mb-5(data-aos="fade-right") Para el desarrollo del evento, las organizaciones normalmente se estructuran a través de grupos de trabajo llamados comités, esto facilita alcanzar los objetivos específicos, al delegar funciones y responsabilidades en diferentes comités; contribuye a un mejor proceso de planeación; y además permite que el desarrollo del evento sea más fluido y con una capacidad de respuesta más oportuna.
     
     .bloque-texto-g.bloque-texto-g--inverso.p-3.p-sm-4.mb-5(style="background-color: #FE502D")
       .bloque-texto-g__img(
@@ -15,7 +15,7 @@
         style="background-repeat: no-repeat; background-position: right;"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 En los comités, se recogen todas las funciones del evento. Al frente de cada uno, existe un responsable, y detrás de este, un recurso humano con diferentes tareas a realizar, según se requiera. Es por ello que cada comité debe disponer de un organigrama, con un plan de necesidades, un presupuesto y un plan de coordinación. Cada evento requiere una organización según sea su necesidad. Si es un evento de grandes magnitudes o un evento pequeño, dependiendo del lugar, del clima, de la población, entre otros, de acuerdo con sus características, se organizarán los comités y las responsabilidades.
+        p.mb-0 En los comités, se recogen todas las funciones del evento. Al frente de cada uno, existe un responsable, y detrás de este, un recurso humano con diferentes tareas a realizar, según se requiera. Es por ello que cada comité debe disponer de un organigrama, con un plan de necesidades, un presupuesto y un plan de coordinación. Cada evento requiere una organización según sea su necesidad. Si es un evento de grandes magnitudes o un evento pequeño, dependiendo del lugar, del clima, de la población, entre otros factores. De acuerdo con sus características, se organizarán los comités y las responsabilidades.
 
     p.mb-5(data-aos="fade-right") Teniendo en cuenta lo anterior, se desarrollarán seis áreas o comités donde se centrarían las operaciones del evento, que serían: marketing y comunicaciones, protocolo, técnico-deportiva, logística, económica y administrativa y seguridad. Cada comité es posible que funcione desde el inicio hasta el final del evento, lo que implicaría que unos comités cuenten con más personal y presupuesto; esto está determinado también por el volumen de tareas asignadas.
 
