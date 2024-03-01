@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.pt-md-5.pt-4.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero(data-aos="fade-right")
         span 2
@@ -32,10 +32,7 @@
             | Coordinador por comité para supervisar el correcto funcionamiento.
       img.col-lg-4.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-2.png" style="max-width: 400px" alt="imagen decorativa" data-aos="fade-left")
 
-    .container-100.py-5(
-      :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.svg')})`}"
-      style="background-repeat: no-repeat; background-position: left; background-size: contain"
-    )
+    .BGM01.py-5
       ImagenInfografica.col-xl-8.mx-auto.color-secundario(data-aos="fade-left")
         template(v-slot:imagen)
           figure
