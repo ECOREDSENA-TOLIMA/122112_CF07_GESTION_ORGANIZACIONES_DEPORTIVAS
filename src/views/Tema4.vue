@@ -28,9 +28,9 @@
           h5 Figura 2.
           i Desarrollo del evento 
         figure.d-lg-flex.d-none(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img-2.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/temas/tema4/img-2.svg' alt="En la figura 2 se muestran las actividades a realizar para el desarrollo de un evento, en donde se sigue un cronograma, se realiza una reunión, se ejecutan las actividades, se comunica, no se improvisa y se trabaja en equipo.")
         figure.d-lg-none.d-flex(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img-3.svg' alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema4/img-3.svg' alt='En la figura 2 se muestran las actividades a realizar para el desarrollo de un evento, en donde se sigue un cronograma, se realiza una reunión, se ejecutan las actividades, se comunica, no se improvisa y se trabaja en equipo.')
 
     p.mb-5(data-aos="fade-right") Complementando el esquema de trabajo para ejecución del evento, en esta fase se tiene la siguiente secuencia:
 
