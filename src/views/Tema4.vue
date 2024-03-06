@@ -26,7 +26,7 @@
       .row.justify-content-center.mb-5
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 2.
-          span Desarrollo del evento 
+          i Desarrollo del evento 
         figure.d-lg-flex.d-none(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema4/img-2.svg' alt="Imagen decorativa")
         figure.d-lg-none.d-flex(data-aos="zoom-in")

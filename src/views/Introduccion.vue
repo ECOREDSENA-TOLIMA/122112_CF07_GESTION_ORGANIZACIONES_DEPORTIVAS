@@ -34,7 +34,7 @@
         .col-lg-8
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
             h5 Figura 1.
-            span Etapas de planificación de un evento
+            i Etapas de planificación de un evento
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/temas/img-2.svg' alt="En la figura 1 se muestran las etapas de planificación de un evento, para que las actividades se desarrollen de forma correcta y exitosa durante la ejecución.")
 

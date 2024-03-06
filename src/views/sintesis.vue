@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se muestran las etapas y características esenciales en la ejecución de eventos deportivos, desde la creación de comités hasta la evaluación de los participantes.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Esta sintesis resume los temas abordados en el componente formativo, como las etapas y características que tiene un evento deportivo, entre ellas la ejecución del evento y lo que esto conlleva hasta finalizar con la evaluación de los participantes con el fin de plantear actividades de mejora continua si así lo amerita.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
