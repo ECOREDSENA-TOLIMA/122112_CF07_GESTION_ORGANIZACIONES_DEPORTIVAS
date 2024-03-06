@@ -114,7 +114,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/122112_CF07_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -169,7 +169,7 @@ export default {
     {
       referencia:
         'Año, V. (2000). Organización de grandes eventos deportivos internacionales. <em>Revista Arbor,</em> 165(650), p. 265-287.',
-      link: 'https://doi.org/10.3989/arbor.2000.i650.969.',
+      link: 'https://doi.org/10.3989/arbor.2000.i650.969',
     },
     {
       referencia:
@@ -200,7 +200,6 @@ export default {
     {
       referencia:
         'Ocaña, I. (2014). <em>La gestión de eventos y productos turísticos.</em> Editorial Síntesis.',
-      link: 'https://www.sintesis.com/data/indices/9788490770009.pdf',
     },
     {
       referencia:
@@ -246,7 +245,7 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Carolina Coca Salazar',
+          cargo: 'Revisora Metodológica y Pedagógica',
           centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
         },
         {
@@ -290,10 +289,9 @@ export default {
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo Fullstack ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -318,6 +316,11 @@ export default {
             'Validación de recursos educativos digitales y vinculación LMS',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Viviana Herrera Quiñonez',
+          cargo: 'Evaluadora Instruccional ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },

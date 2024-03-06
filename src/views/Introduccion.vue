@@ -30,8 +30,13 @@
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
           p.mb-0 La ejecución del evento comprende específicamente las actividades correspondientes a la producción del evento, propiamente dicho; en esta fase, están implícitas las tareas que se planificaron en etapas anteriores y que se requiere realizar. Una de sus tareas principales es coordinar el equipo de trabajo para que las actividades se desarrollen de forma correcta y exitosa durante la ejecución del evento. Aquí se ponen en marcha los distintos servicios, la infraestructura necesaria, además del recurso humano, económico y tecnológico.
 
-      img.mx-auto(src="@/assets/curso/temas/img-2.svg" style="max-width: 766px" data-aos="fade-left")
-
+      .row.justify-content-center.mb-5
+        .col-lg-8
+          .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+            h5 Figura 1.
+            span Etapas de planificación de un evento
+          figure(data-aos="zoom-in")
+            img(src='@/assets/curso/temas/img-2.svg' alt="En la figura 1 se muestran las etapas de planificación de un evento, para que las actividades se desarrollen de forma correcta y exitosa durante la ejecución.")
 
     p.mb-0(data-aos="fade-right") Para la ejecución del evento, se considera muy importante la coordinación de tareas, actividades y recursos, realizar el seguimiento y control correspondiente a través de los responsables asignados, cuando se ponen en marcha el evento.
 

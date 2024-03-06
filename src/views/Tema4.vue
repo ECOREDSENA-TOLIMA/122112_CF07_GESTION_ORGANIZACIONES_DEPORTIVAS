@@ -19,12 +19,18 @@
     
     p.mb-5(data-aos="fade-right") Para lo anterior, se deben tener en cuenta los siguientes elementos: 
 
-    .container-100.py-5.d-none.d-md-flex(
+    .container-100.py-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: left; background-size: contain"
     )
-      img.mb-5(src='@/assets/curso/temas/tema4/img-2.svg' alt='Imagen decorativa' data-aos="fade-left")
-    img.d-flex.d-md-none.mb-5(src='@/assets/curso/temas/tema4/img-3.svg' alt='Imagen decorativa' data-aos="fade-left")
+      .row.justify-content-center.mb-5
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 2.
+          span Desarrollo del evento 
+        figure.d-lg-flex.d-none(data-aos="zoom-in")
+          img(src='@/assets/curso/temas/tema4/img-2.svg' alt="Imagen decorativa")
+        figure.d-lg-none.d-flex(data-aos="zoom-in")
+          img(src='@/assets/curso/temas/tema4/img-3.svg' alt='Imagen decorativa')
 
     p.mb-5(data-aos="fade-right") Complementando el esquema de trabajo para ejecución del evento, en esta fase se tiene la siguiente secuencia:
 
