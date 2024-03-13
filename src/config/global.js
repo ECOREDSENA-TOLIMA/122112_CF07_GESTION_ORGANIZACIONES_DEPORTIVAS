@@ -291,11 +291,6 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollo Fullstack ',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
-        },
-        {
           nombre: 'Adriana Ariza Luque',
           cargo: 'Animación y producción audiovisual',
           centro:
@@ -317,7 +312,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Jorge Bustos Ortiz',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
